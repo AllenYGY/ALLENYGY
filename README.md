@@ -1,28 +1,53 @@
-### Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" alt="ALLENYGY — Small tools. Thoughtful workflows." width="100%" />
+</p>
 
-<!--
-**ALLENYGY/ALLENYGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building useful tools for everyday workflows.<br />
+  Exploring native apps, language tools, and practical automation.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> ·
+  <a href="#areas-of-interest">Areas of interest</a> ·
+  <a href="https://github.com/AllenYGY?tab=repositories">All repositories</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLENYGY&repo=ALLENYGY's Blog)](https://github.com/ALLENYGY/ALLENYGY.github.io)
+### Selected projects
 
--->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/AllenYGY/overshelf">OverShelf ↗</a></h3>
+      <p>A native macOS top-edge drawer for the things you need within reach.</p>
+      <sub>macOS · Everyday productivity</sub>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/AllenYGY/LiveTranslateBobPlugin">Live Translate ↗</a></h3>
+      <p>A Bob plugin for real-time Chinese–English subtitle translation.</p>
+      <sub>Swift · Translation · Subtitles</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/AllenYGY/MailTranslator">MailTranslator ↗</a></h3>
+      <p>Bilingual reading in Apple Mail. Product information and support.</p>
+      <sub>Apple Mail · Bilingual reading</sub>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/AllenYGY?tab=repositories">More to explore ↗</a></h3>
+      <p>Browse more tools, experiments, and projects across my public repositories.</p>
+      <sub>Tools · Experiments · Code</sub>
+    </td>
+  </tr>
+</table>
 
-<!--   my-ticker -->    
+### Areas of interest
 
+- **Native experiences** — small, focused tools that fit into everyday workflows.
+- **Language tools** — translation, subtitles, and bilingual reading.
+- **Practical automation** — making repetitive work simpler.
 
-<!-- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AllenYGY&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,OldALLENYGY.github.io,slides,Mackup&hide=html,javascript,php,css,Jupyter%20Notebook,hack,makefile" style="height:150px;"/>
-</div> -->
+---
 
-
+<p align="center"><sub>Small tools. Thoughtful workflows.</sub></p>
